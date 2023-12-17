@@ -1,0 +1,14 @@
+C:\Users\Pc\Documents\Proyectos Visual Studio Code\Proyecto State\bin\Debug\net7.0\Proyecto State.exe
+C:\Users\Pc\Documents\Proyectos Visual Studio Code\Proyecto State\bin\Debug\net7.0\Proyecto State.deps.json
+C:\Users\Pc\Documents\Proyectos Visual Studio Code\Proyecto State\bin\Debug\net7.0\Proyecto State.runtimeconfig.json
+C:\Users\Pc\Documents\Proyectos Visual Studio Code\Proyecto State\bin\Debug\net7.0\Proyecto State.dll
+C:\Users\Pc\Documents\Proyectos Visual Studio Code\Proyecto State\bin\Debug\net7.0\Proyecto State.pdb
+C:\Users\Pc\Documents\Proyectos Visual Studio Code\Proyecto State\obj\Debug\net7.0\Proyecto State.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Documents\Proyectos Visual Studio Code\Proyecto State\obj\Debug\net7.0\Proyecto State.AssemblyInfoInputs.cache
+C:\Users\Pc\Documents\Proyectos Visual Studio Code\Proyecto State\obj\Debug\net7.0\Proyecto State.AssemblyInfo.cs
+C:\Users\Pc\Documents\Proyectos Visual Studio Code\Proyecto State\obj\Debug\net7.0\Proyecto State.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Documents\Proyectos Visual Studio Code\Proyecto State\obj\Debug\net7.0\Proyecto State.dll
+C:\Users\Pc\Documents\Proyectos Visual Studio Code\Proyecto State\obj\Debug\net7.0\refint\Proyecto State.dll
+C:\Users\Pc\Documents\Proyectos Visual Studio Code\Proyecto State\obj\Debug\net7.0\Proyecto State.pdb
+C:\Users\Pc\Documents\Proyectos Visual Studio Code\Proyecto State\obj\Debug\net7.0\Proyecto State.genruntimeconfig.cache
+C:\Users\Pc\Documents\Proyectos Visual Studio Code\Proyecto State\obj\Debug\net7.0\ref\Proyecto State.dll
